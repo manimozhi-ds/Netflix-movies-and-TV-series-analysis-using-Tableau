@@ -30,9 +30,9 @@ The dataset used in this project can be found here:
 
 ## 📂 Files
 
-- `Netflix_IMDb_Dashboard.twb` – Tableau dashboard file 
+- `Netflix movie and TV series analysis based on IMBD.twb` – Tableau dashboard file 
 - `README.md` – Project overview and details  
-- `dashboard.png` – Exported image of the Tableau dashboard
+- `Netflix analysis Dashboard.png` – Exported image of the Tableau dashboard
 
 ## 🚀 Getting Started
 
