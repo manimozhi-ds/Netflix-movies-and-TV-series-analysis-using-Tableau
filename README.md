@@ -2,8 +2,6 @@
 
 This project presents an interactive data visualization of Netflix’s movie and TV show catalog, enriched with IMDb ratings and genre information. Built using **Tableau**, the dashboard provides insights into viewer preferences, genre performance, and top-rated content.
 
-![Netflix IMDb Analysis Dashboard](19553504-5354-4869-b28d-9c90a359168e.png)
-
 ## 🔍 Project Overview
 
 The analysis focuses on understanding patterns within Netflix's content by combining its dataset with IMDb scores. Key insights include:
