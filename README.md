@@ -56,7 +56,7 @@ This analysis can be used by:
 ## 📬 Contact
 
 Feel free to reach out for collaboration or questions:  
-**Email:** [manimozhi254@gmail.com]  
+**Email:** manimozhi254@gmail.com
 **LinkedIn:** [https://www.linkedin.com/in/manimozhis2705/]  
 
 ---
